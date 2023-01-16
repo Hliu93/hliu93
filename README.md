@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hadrian Liu 
 ### OPS445NCC
 <!--
